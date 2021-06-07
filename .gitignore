@@ -1,0 +1,6 @@
+binary_test
+test/
+*.o
+mysh
+pipe/
+.vscode/
